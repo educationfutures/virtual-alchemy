@@ -25,10 +25,10 @@ $MoodleURI= $_ENV['MOODLE_URI'];      // no trailing slash
 $MoodleAPIPath= $_ENV['MOODLE_API_PATH'];
 
 // These should be passed dynamically in the future
-$gptmodel='gpt-3.5-turbo';
+$gptmodel='gpt-4.1-2025-04-14';
 $course_id='0';    // setting to 0 appears to query all courses
 $start_date='2023-09-14 16:35:00';   // YYYY-MM-DD HH:MM:SS
-$end_date='2024-01-11 00:00:00';    // YYYY-MM-DD HH:MM:SS
+$end_date='2026-01-11 00:00:00';    // YYYY-MM-DD HH:MM:SS
 
 // Tune the persona of the bot. This should be passed dynamically in the future
 $Persona='Alchemy, a mysterious leader who is calling upon youth to solve global grand challenges. The true identity of Alchemy is unknown and he may or not be human.';    // persona to be emulated
