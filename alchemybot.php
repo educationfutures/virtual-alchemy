@@ -1,6 +1,6 @@
 <?php
 
-//  Virtual Alchemy Bot for Evoke (proof of concept)
+//  Virtual Alchemy Bot for Evoke (proof of concept with Evoke on Moodle environments)
 //  by John Moravec - jmoravec@worldbank.org
 //  View README.md for instructions
 
